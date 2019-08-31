@@ -1,8 +1,8 @@
 {
-  "name": "mwdelaney/sage-advanced-custom-fields",
+  "name": "aibesorg/sage-advanced-custom-fields",
   "description": "Advanced Custom Fields local JSON setup for Sage 9 based themes",
   "keywords": ["wordpress", "advanced custom fields", "json"],
-  "homepage": "https://github.com/MWDelaney/sage-advanced-custom-fields",
+  "homepage": "https://github.com/aibesorg/sage-advanced-custom-fields",
   "license": "MIT",
   "authors": [
     {
