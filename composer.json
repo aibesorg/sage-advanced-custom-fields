@@ -11,7 +11,7 @@
 		}
   ],
   "require": {
-    "php": ">=5.3.2"
+    "php": ">=7.0"
   },
 	"autoload": {
     "files": ["advanced-custom-fields.php"]
